@@ -1,0 +1,209 @@
+{
+    "products": [
+        {
+          "id": 1,
+          "image": "https://www.chumbak.com/cdn/shop/products/8907605117329_7.jpg?v=1712912557&width=1000",
+          "title": "TEAL by Chumbak Forest Jade Watch, Metal Mesh Strap",
+          "price": "₹ 1,500",
+          "category": "Watches",
+          "description": "(4.3) Customer rating",
+          "more_images": [
+            "https://www.chumbak.com/cdn/shop/products/8907605117329_1.jpg?v=1712912557&width=1000"
+          ]
+        },
+        {
+          "id": 2,
+          "image": "https://www.chumbak.com/cdn/shop/products/chumbak1677.jpg?v=1674002337&width=1000",
+          "title": "Misty Forest Steel Spice Box - Blue",
+          "price": "₹ 1,375",
+          "category": "Kitchenware",
+          "description": "(5.0) Customer rating",
+          "more_images": [
+            "https://www.chumbak.com/cdn/shop/products/chumbak1678.jpg?v=1674002325&width=1000"
+          ]
+        },
+        {
+          "id": 3,
+          "image": "https://www.chumbak.com/cdn/shop/products/8907605078750_plus8.jpg?v=1712918741&width=1000",
+          "title": "Orchid Embroidered Tote Bag - Tan",
+          "price": "₹ 1,750",
+          "category": "Bags",
+          "description": "(3.9) Customer rating",
+          "more_images": [
+            "https://www.chumbak.com/cdn/shop/products/8907605078750_top.jpg?v=1712918741&width=1000"
+          ]
+        },
+        {
+          "id": 4,
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605065415.jpg?v=1687762116&width=1000",
+          "title": "Ombre Tassels Dream Catcher - Pink",
+          "price": "₹ 775",
+          "category": "Home Decor",
+          "description": "",
+          "more_images": [
+            "https://www.chumbak.com/cdn/shop/products/8907605065415_plus1_4.jpg?v=1687762116&width=1000"
+          ]
+        },
+        {
+          "id": 5,
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605123658_1.jpg?v=1687248248&width=1000",
+          "title": "Beachside Shopper Bag - Navy",
+          "price": "₹ 300",
+          "category": "Bags",
+          "description": "(4.0) Customer rating",
+          "more_images": [
+            "https://www.chumbak.com/cdn/shop/files/8907605123658_2.jpg?v=1687248247&width=1000"
+          ]
+        },
+        {
+          "id": 6,
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605098703_1.jpg?v=1720787857&width=1000",
+          "title": "Fantastical Elephant Printed Wrist Watch With Bracelet Set",
+          "price": "₹ 1,650",
+          "category": "Watches",
+          "description": "(4.2) Customer rating",
+          "more_images": [
+            "https://www.chumbak.com/cdn/shop/files/8907605098703_3.jpg?v=1720787856&width=1000"
+          ]
+        },
+        {
+          "id": 7,
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605129148_1.jpg?v=1700560549&width=1000",
+          "title": "TEAL by Chumbak Persian Pottery Bedsheet, Teal - Queen size, 104 TC",
+          "price": "₹ 995",
+          "category": "Home Decor",
+          "description": "",
+          "more_images": [
+            "https://www.chumbak.com/cdn/shop/files/8907605129148_2.jpg?v=1700560548&width=1000"
+          ]
+        },
+        {
+          "id": 8,
+          "image": "https://www.chumbak.com/cdn/shop/products/8907605063299_top_4.jpg?v=1674122929&width=1000",
+          "title": "Chumbak Lumbar Filler -30 x 100cm",
+          "price": "₹ 475",
+          "category": "Home Decor",
+          "description": "",
+          "more_images": []
+        },
+        {
+          "id": 9,
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605121678_2.jpg?v=1712912463&width=1000",
+          "title": "Chumbak Smartwatch - Bloom",
+          "price": "₹ 2,400",
+          "category": "Electronics",
+          "description": "(3.7) Customer rating",
+          "more_images": [
+            "https://www.chumbak.com/cdn/shop/files/8907605121678_1.jpg?v=1712912463&width=1000"
+          ]
+        },
+        {
+          "id": 10,
+          "image": "https://www.chumbak.com/cdn/shop/products/8904218055659_top_5.jpg?v=1674123840&width=1000",
+          "title": "Chumbak Cushion Filler - 16”",
+          "price": "₹ 205",
+          "category": "Home Decor",
+          "description": "(4.4) Customer rating",
+          "more_images": []
+        },
+        {
+          "id":11,
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605103421_1.jpg?v=1684922818&width=1000",
+          "title": "TEAL by Chumbak Arizona Hummingbird Bedsheet - Queen Size, 144TC, Green",
+          "price": "₹ 1,115",
+          "category": "Home Decor",
+          "description": "(4.3) Customer rating",
+          "more_images": [
+            "https://www.chumbak.com/cdn/shop/files/8907605103421_2.jpg?v=1684922817&width=1000"
+          ]
+        },
+        {
+          "id": 12,
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605091322.jpg?v=1689225581&width=1000",
+          "title": "TEAL by Chumbak Tropical Birdie Watch Black",
+          "price": "₹ 1,300",
+          "category": "Watches",
+          "description": "(4.0) Customer rating",
+          "more_images": [
+            "https://www.chumbak.com/cdn/shop/products/8907605091322_plus22_e9d3b6fb-2bf1-4e95-a1d6-e6655afb6133.jpg?v=1689225581&width=1000"
+          ]
+        },
+        {
+          "id": 13,
+          "image": "https://www.chumbak.com/cdn/shop/products/8907605114656_1.jpg?v=1673591222&width=1000",
+          "title": "TEAL by Chumbak Columbian Birds bedsheet- Queen size, 136TC, Grey",
+          "price": "₹ 1,595",
+          "category": "Home Decor",
+          "description": "(5.0) Customer rating",
+          "more_images": [
+            "https://www.chumbak.com/cdn/shop/products/8907605114656_2.jpg?v=1673591219&width=1000"
+          ]
+        },
+        {
+          "id": 14,
+          "image": "https://www.chumbak.com/cdn/shop/products/8907605104503_1.jpg?v=1674109792&width=1000",
+          "title": "Chumbak Classics \"Cheat Day and Sweet Day\" Foldable Breakfast Table",
+          "price": "₹ 1,795",
+          "category": "Home Decor",
+          "description": "(3.7) Customer rating",
+          "more_images": [
+            "https://www.chumbak.com/cdn/shop/products/8907605104503_plus5.jpg?v=1674109788&width=1000"
+          ]
+        },
+        {
+          "id": 15,
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605098697_1.jpg?v=1720787956&width=1000",
+          "title": "Live Slow Watch & Bracelet Set Peach & Rose Gold",
+          "price": "₹ 1,650",
+          "category": "Watches",
+          "description": "(5.0) Customer rating",
+          "more_images": [
+            "https://www.chumbak.com/cdn/shop/files/preview_images/ecfce540cefd40a7a698145927d49477.thumbnail.0000000000.jpg?v=1720787980"
+          ]
+        },
+        {
+          "id": 16,
+          "image": "https://www.chumbak.com/cdn/shop/products/8907605114472_1.jpg?v=1673580053&width=1000",
+          "title": "TEAL by Chumbak Siberian Tigers Bedsheet - Queen size, 136TC, Blue",
+          "price": "₹ 1,115",
+          "category": "Home Decor",
+          "description": "(5.0) Customer rating",
+          "more_images": [
+            "https://www.chumbak.com/cdn/shop/products/8907605114472_2.jpg?v=1673580051&width=1000"
+          ]
+        },
+        {
+          "id": 17,
+          "image": "https://www.chumbak.com/cdn/shop/products/8907605117336_5.jpg?v=1712912550&width=1000",
+          "title": "TEAL by Chumbak Forest Jade Watch, Metal link Strap",
+          "price": "₹ 1,400",
+          "category": "Watches",
+          "description": "(4.6) Customer rating",
+          "more_images": [
+            "https://www.chumbak.com/cdn/shop/products/8907605117336_1.jpg?v=1712912550&width=1000"
+          ]
+        },
+        {
+          "id": 18,
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605121661_2.jpg?v=1712912468&width=1000",
+          "title": "Chumbak Smartwatch - Wilderness",
+          "price": "₹ 2,400",
+          "category": "Electronics",
+          "description": "(4.3) Customer rating",
+          "more_images": [
+            "https://www.chumbak.com/cdn/shop/files/WildernessWatch-01.jpg?v=1712912468&width=1000"
+          ]
+        },
+        {
+          "id": 19,
+          "image": "https://www.chumbak.com/cdn/shop/products/8907605068942_1.jpg?v=1673588339&width=1000",
+          "title": "TEAL by Chumbak Ombre Aztec Watch Teal",
+          "price": "₹ 1,400",
+          "category": "Watches",
+          "description": "(3.8) Customer rating",
+          "more_images": [
+            "https://www.chumbak.com/cdn/shop/products/8907605068942_2.jpg?v=1673588335&width=1000"
+          ]
+        }
+    ]
+}
