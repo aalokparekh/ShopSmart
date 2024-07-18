@@ -4,7 +4,7 @@
           "id": 1,
           "image": "https://www.chumbak.com/cdn/shop/products/8907605117329_7.jpg?v=1712912557&width=1000",
           "title": "TEAL by Chumbak Forest Jade Watch, Metal Mesh Strap",
-          "price": "₹ 1,500",
+          "price": 1500,
           "category": "Watches",
           "description": "(4.3) Customer rating",
           "more_images": [
@@ -15,7 +15,7 @@
           "id": 2,
           "image": "https://www.chumbak.com/cdn/shop/products/chumbak1677.jpg?v=1674002337&width=1000",
           "title": "Misty Forest Steel Spice Box - Blue",
-          "price": "₹ 1,375",
+          "price":  1375,
           "category": "Kitchenware",
           "description": "(5.0) Customer rating",
           "more_images": [
@@ -26,7 +26,7 @@
           "id": 3,
           "image": "https://www.chumbak.com/cdn/shop/products/8907605078750_plus8.jpg?v=1712918741&width=1000",
           "title": "Orchid Embroidered Tote Bag - Tan",
-          "price": "₹ 1,750",
+          "price":  1750,
           "category": "Bags",
           "description": "(3.9) Customer rating",
           "more_images": [
@@ -37,7 +37,7 @@
           "id": 4,
           "image": "https://www.chumbak.com/cdn/shop/files/8907605065415.jpg?v=1687762116&width=1000",
           "title": "Ombre Tassels Dream Catcher - Pink",
-          "price": "₹ 775",
+          "price": 775,
           "category": "Home Decor",
           "description": "",
           "more_images": [
@@ -48,7 +48,7 @@
           "id": 5,
           "image": "https://www.chumbak.com/cdn/shop/files/8907605123658_1.jpg?v=1687248248&width=1000",
           "title": "Beachside Shopper Bag - Navy",
-          "price": "₹ 300",
+          "price": 300,
           "category": "Bags",
           "description": "(4.0) Customer rating",
           "more_images": [
@@ -59,7 +59,7 @@
           "id": 6,
           "image": "https://www.chumbak.com/cdn/shop/files/8907605098703_1.jpg?v=1720787857&width=1000",
           "title": "Fantastical Elephant Printed Wrist Watch With Bracelet Set",
-          "price": "₹ 1,650",
+          "price":  1650,
           "category": "Watches",
           "description": "(4.2) Customer rating",
           "more_images": [
@@ -70,7 +70,7 @@
           "id": 7,
           "image": "https://www.chumbak.com/cdn/shop/files/8907605129148_1.jpg?v=1700560549&width=1000",
           "title": "TEAL by Chumbak Persian Pottery Bedsheet, Teal - Queen size, 104 TC",
-          "price": "₹ 995",
+          "price": 995,
           "category": "Home Decor",
           "description": "",
           "more_images": [
@@ -81,7 +81,7 @@
           "id": 8,
           "image": "https://www.chumbak.com/cdn/shop/products/8907605063299_top_4.jpg?v=1674122929&width=1000",
           "title": "Chumbak Lumbar Filler -30 x 100cm",
-          "price": "₹ 475",
+          "price":  475,
           "category": "Home Decor",
           "description": "",
           "more_images": []
@@ -90,7 +90,7 @@
           "id": 9,
           "image": "https://www.chumbak.com/cdn/shop/files/8907605121678_2.jpg?v=1712912463&width=1000",
           "title": "Chumbak Smartwatch - Bloom",
-          "price": "₹ 2,400",
+          "price": 2400,
           "category": "Electronics",
           "description": "(3.7) Customer rating",
           "more_images": [
@@ -101,7 +101,7 @@
           "id": 10,
           "image": "https://www.chumbak.com/cdn/shop/products/8904218055659_top_5.jpg?v=1674123840&width=1000",
           "title": "Chumbak Cushion Filler - 16”",
-          "price": "₹ 205",
+          "price": 205,
           "category": "Home Decor",
           "description": "(4.4) Customer rating",
           "more_images": []
@@ -110,7 +110,7 @@
           "id":11,
           "image": "https://www.chumbak.com/cdn/shop/files/8907605103421_1.jpg?v=1684922818&width=1000",
           "title": "TEAL by Chumbak Arizona Hummingbird Bedsheet - Queen Size, 144TC, Green",
-          "price": "₹ 1,115",
+          "price": 1115,
           "category": "Home Decor",
           "description": "(4.3) Customer rating",
           "more_images": [
@@ -121,7 +121,7 @@
           "id": 12,
           "image": "https://www.chumbak.com/cdn/shop/files/8907605091322.jpg?v=1689225581&width=1000",
           "title": "TEAL by Chumbak Tropical Birdie Watch Black",
-          "price": "₹ 1,300",
+          "price": 1300,
           "category": "Watches",
           "description": "(4.0) Customer rating",
           "more_images": [
@@ -132,7 +132,7 @@
           "id": 13,
           "image": "https://www.chumbak.com/cdn/shop/products/8907605114656_1.jpg?v=1673591222&width=1000",
           "title": "TEAL by Chumbak Columbian Birds bedsheet- Queen size, 136TC, Grey",
-          "price": "₹ 1,595",
+          "price": 1595,
           "category": "Home Decor",
           "description": "(5.0) Customer rating",
           "more_images": [
@@ -143,7 +143,7 @@
           "id": 14,
           "image": "https://www.chumbak.com/cdn/shop/products/8907605104503_1.jpg?v=1674109792&width=1000",
           "title": "Chumbak Classics \"Cheat Day and Sweet Day\" Foldable Breakfast Table",
-          "price": "₹ 1,795",
+          "price": 1795,
           "category": "Home Decor",
           "description": "(3.7) Customer rating",
           "more_images": [
@@ -154,7 +154,7 @@
           "id": 15,
           "image": "https://www.chumbak.com/cdn/shop/files/8907605098697_1.jpg?v=1720787956&width=1000",
           "title": "Live Slow Watch & Bracelet Set Peach & Rose Gold",
-          "price": "₹ 1,650",
+          "price": 1650,
           "category": "Watches",
           "description": "(5.0) Customer rating",
           "more_images": [
@@ -165,7 +165,7 @@
           "id": 16,
           "image": "https://www.chumbak.com/cdn/shop/products/8907605114472_1.jpg?v=1673580053&width=1000",
           "title": "TEAL by Chumbak Siberian Tigers Bedsheet - Queen size, 136TC, Blue",
-          "price": "₹ 1,115",
+          "price": 1115,
           "category": "Home Decor",
           "description": "(5.0) Customer rating",
           "more_images": [
@@ -176,7 +176,7 @@
           "id": 17,
           "image": "https://www.chumbak.com/cdn/shop/products/8907605117336_5.jpg?v=1712912550&width=1000",
           "title": "TEAL by Chumbak Forest Jade Watch, Metal link Strap",
-          "price": "₹ 1,400",
+          "price": 1400,
           "category": "Watches",
           "description": "(4.6) Customer rating",
           "more_images": [
@@ -187,7 +187,7 @@
           "id": 18,
           "image": "https://www.chumbak.com/cdn/shop/files/8907605121661_2.jpg?v=1712912468&width=1000",
           "title": "Chumbak Smartwatch - Wilderness",
-          "price": "₹ 2,400",
+          "price": 2400,
           "category": "Electronics",
           "description": "(4.3) Customer rating",
           "more_images": [
@@ -198,12 +198,792 @@
           "id": 19,
           "image": "https://www.chumbak.com/cdn/shop/products/8907605068942_1.jpg?v=1673588339&width=1000",
           "title": "TEAL by Chumbak Ombre Aztec Watch Teal",
-          "price": "₹ 1,400",
+          "price":  1400,
           "category": "Watches",
           "description": "(3.8) Customer rating",
           "more_images": [
             "https://www.chumbak.com/cdn/shop/products/8907605068942_2.jpg?v=1673588335&width=1000"
           ]
+        },
+        {
+          "id": 20,
+          "title": "TEAL by Chumbak Ikat Glow Bedsheet, Teal - Queen size, 104 TC",
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605129001_1.jpg?v=1700560209&width=1000",
+          "price": 1115,
+          "category": "Home Furnishing",
+          "description": "TEAL by Chumbak Ikat Glow Bedsheet in Teal color, Queen size, 104 thread count."
+        },
+        {
+          "id": 21,
+          "title": "Floral Owl Applique Mini Wallet - Pink",
+          "image": "https://www.chumbak.com/cdn/shop/products/8907605074943_1.jpg?v=1673984874&width=1000",
+          "price": 1075,
+          "category": "Fashion Accessories",
+          "description": "Mini wallet featuring floral owl applique in pink."
+        },
+        {
+          "id": 22,
+          "title": "TEAL by Chumbak Ikat Glow Bedsheet, Red - Queen size, 104 TC",
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605129018_1.jpg?v=1700560250&width=1000",
+          "price": 995,
+          "category": "Home Furnishing",
+          "description": "TEAL by Chumbak Ikat Glow Bedsheet in Red color, Queen size, 104 thread count."
+        },
+        {
+          "id": 23,
+          "title": "Farmhouse Round Trivets -Farm Garden, Green, Ikkat, 8” x 8”, Set of 2",
+          "image": "https://www.chumbak.com/cdn/shop/products/8907605110368_1.jpg?v=1674080641&width=1000",
+          "price": 415,
+          "category": "Kitchen & Dining",
+          "description": "Set of 2 round trivets featuring Farm Garden, Green Ikkat pattern."
+        },
+        {
+          "id": 24,
+          "title": "Teal by Chumbak Sunshine State Office Tote",
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605124747_1.jpg?v=1709875073&width=1000",
+          "price": 1800,
+          "category": "Fashion Accessories",
+          "description": "Office tote bag from Teal by Chumbak Sunshine State collection."
+        },
+        {
+          "id": 25,
+          "title": "TEAL By Chumbak Traveller Laptop Sleeve - 15inch",
+          "image": "https://www.chumbak.com/cdn/shop/products/8907605110689_1.jpg?v=1673493481&width=1000",
+          "price": 1150,
+          "category": "Electronics Accessories",
+          "description": "Laptop sleeve designed for 15-inch laptops from TEAL By Chumbak Traveller collection."
+        },
+        {
+          "id": 26,
+          "title": "TealbyChumbak Sunshine State Laptop Backpack",
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605124648_1.jpg?v=1691412968&width=1000",
+          "price": 1650,
+          "category": "Fashion Accessories",
+          "description": "Laptop backpack from TealbyChumbak Sunshine State collection."
+        },
+        {
+          "id": 27,
+          "title": "TEAL by Chumbak abstract Peacock Watch, Metal Mesh Strap",
+          "image": "https://www.chumbak.com/cdn/shop/products/8907605117343_7.jpg?v=1712912546&width=1000",
+          "price": 1500,
+          "category": "Watches",
+          "description": "Abstract peacock design watch with metal mesh strap."
+        },
+        {
+          "id": 28,
+          "title": "Pinterest Owl D'cor ' Teal",
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605067839.jpg?v=1689339263&width=1000",
+          "price": 595,
+          "category": "Home Decor",
+          "description": "Owl figurine in teal color for home decor."
+        },
+        {
+          "id": 29,
+          "title": "Chai Time Storage Tin",
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605044663_2.jpg?v=1701164116&width=1000",
+          "price": 555,
+          "category": "Home & Kitchen",
+          "description": "Storage tin featuring Chai Time design."
+        },
+        {
+          "id": 30,
+          "title": "TEAL by Chumbak Sunset Ombre Watch, Metal Mesh Strap",
+          "image": "https://www.chumbak.com/cdn/shop/products/8907605117268_7.jpg?v=1712912618&width=1000",
+          "price": 1500,
+          "category": "Watches",
+          "description": "Sunset ombre design watch with metal mesh strap."
+        },
+        {
+          "id": 31,
+          "title": "Indian Traffic 16” Cushion Cover- Yellow",
+          "image": "https://www.chumbak.com/cdn/shop/products/8907605073021_top.jpg?v=1673908020&width=1000",
+          "price": 475,
+          "category": "Home Furnishing",
+          "description": "Yellow cushion cover featuring Indian Traffic design."
+        },
+        {
+          "id": 32,
+          "title": "A Trunkload of Fun Foldable Breakfast Table",
+          "image": "https://www.chumbak.com/cdn/shop/products/8907605104527_plus5.jpg?v=1673400588&width=1000",
+          "price": 1795,
+          "category": "Home & Kitchen",
+          "description": "Digital printed breakfast tray made from mango wood."
+        },
+        {
+          "id": 33,
+          "title": "Chumbak Classics Dancing Queens Cushion Cover",
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605104329.jpg?v=1689055213&width=1000",
+          "price": 595,
+          "category": "Home Furnishing",
+          "description": "Cushion cover featuring Chumbak Classics Dancing Queens design."
+        },
+        {
+          "id": 34,
+          "title": "Teal by Chumbak Summer Crossbody Bag",
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605125935_1.jpg?v=1687157089&width=1000",
+          "price": 1500,
+          "category": "Fashion Accessories",
+          "description": "Summer crossbody bag from Teal by Chumbak collection."
+        },
+        {
+          "id": 35,
+          "title": "TEAL by Chumbak Strong is the new pretty Watch, Metal link Strap",
+          "image": "https://www.chumbak.com/cdn/shop/products/8907605117374_7.jpg?v=1712912601&width=1000",
+          "price": 1400,
+          "category": "Watches",
+          "description": "Stylish watch with metal link strap from TEAL by Chumbak."
+        },
+        {
+          "id": 36,
+          "title": "Teal by Chumbak Mexico Aztec Sling Bag",
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605125829_1.jpg?v=1686821322&width=1000",
+          "price": 1000,
+          "category": "Fashion Accessories",
+          "description": "Aztec pattern sling bag from Teal by Chumbak Mexico collection."
+        },
+        {
+          "id": 37,
+          "title": "TEAL by Chumbak Pixel Blossom Wrist Watch",
+          "image": "https://www.chumbak.com/cdn/shop/products/8907605085598_top.jpg?v=1674001799&width=1000",
+          "price": 1250,
+          "category": "Watches",
+          "description": "Wrist watch featuring pixel blossom design by TEAL by Chumbak."
+        },
+        {
+          "id": 38,
+          "title": "Flora Bird Bowl",
+          "image": "https://www.chumbak.com/cdn/shop/files/8904218060561_1_1175335f-32c4-4e6d-a034-9a0361de1889.jpg?v=1710938816&width=1000",
+          "price": 295,
+          "category": "Home Decor",
+          "description": "Decorative bird bowl featuring flora design."
+        },
+        {
+          "id": 39,
+          "title": "Country Wooden Tissue Box - Floral, 9” x 5” x 3”",
+          "image": "https://www.chumbak.com/cdn/shop/products/8907605103049_main.jpg?v=1674043014&width=1000",
+          "price": 595,
+          "category": "Home & Kitchen",
+          "description": "Wooden tissue box with floral design."
+        },
+        {
+          "id": 40,
+          "title": "TEAL by Chumbak Sunset Ombre Watch, Metal link Strap",
+          "image": "https://www.chumbak.com/cdn/shop/products/8907605117275_7.jpg?v=1712912614&width=1000",
+          "price": 1400,
+          "category": "Watches",
+          "description": "Ombre design watch with metal link strap from TEAL by Chumbak."
+        },
+        {
+          "id": 41,
+          "title": "TEAL By Chumbak Amusement Park Laptop Sleeve - 15inch",
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605110627_1.jpg?v=1708411589&width=1000",
+          "price": 1150,
+          "category": "Electronics Accessories",
+          "description": "Laptop sleeve featuring amusement park theme by TEAL By Chumbak."
+        },
+        {
+          "id": 42,
+          "title": "Teal by Chumbak Mercado Aztec Wallet Sling Bag",
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605123801_1.jpg?v=1686816872&width=1000",
+          "price": 1150,
+          "category": "Fashion Accessories",
+          "description": "Wallet sling bag with Aztec design from Teal by Chumbak Mercado collection."
+        },
+        {
+          "id": 43,
+          "title": "Live Slow Printed Cushion Cover",
+          "image": "https://www.chumbak.com/cdn/shop/products/8907605098475_top.jpg?v=1673996940&width=1000",
+          "price": 555,
+          "category": "Home Furnishing",
+          "description": "Cushion cover with live slow printed design."
+        },
+        {
+          "id": 44,
+          "title": "TEAL By Chumbak Traveller Laptop Sleeve - 13inch",
+          "image": "https://www.chumbak.com/cdn/shop/products/8907605110696_1.jpg?v=1673574465&width=1000",
+          "price": 1000,
+          "category": "Electronics Accessories",
+          "description": "Laptop sleeve designed for 13-inch laptops from TEAL By Chumbak Traveller collection."
+        },
+        {
+          "id": 45,
+          "title": "TEAL by Chumbak Ombre Aztec Watch-Black",
+          "image": "https://www.chumbak.com/cdn/shop/products/8907605116636_6.jpg?v=1712912624&width=1000",
+          "price": 1400,
+          "category": "Watches",
+          "description": "Black ombre design Aztec watch by TEAL by Chumbak."
+        },
+        {
+          "id": 46,
+          "title": "Countryside Ikkat Cushion Set of 3 -16”",
+          "image": "https://www.chumbak.com/cdn/shop/products/8907605111372_plus8.jpg?v=1674054177&width=1000",
+          "price": 1115,
+          "category": "Home Furnishing",
+          "description": "Set of 3 Ikkat cushions with countryside theme."
+        },
+        {
+          "id": 47,
+          "title": "Teal by Chumbak Grey Bloom Laptop Backpack",
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605126086_1.jpg?v=1686822632&width=1000",
+          "price": 1650,
+          "category": "Fashion Accessories",
+          "description": "Grey bloom laptop backpack from Teal by Chumbak."
+        },
+        {
+          "id": 48,
+          "title": "TEAL by Chumbak Rose Garden Watch, Metal Mesh Strap",
+          "image": "https://www.chumbak.com/cdn/shop/products/8907605117305_7.jpg?v=1712912567&width=1000",
+          "price": 1500,
+          "category": "Watches",
+          "description": "Rose garden watch with metal mesh strap by TEAL by Chumbak."
+        },
+        {
+          "id": 49,
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605138102_1.jpg?v=1720788934&width=1000",
+          "price": 595,
+          "category": "Rakhi",
+          "title": "Brass motif Surya Rakhi"
+        },
+        {
+          "id": 50,
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605138096_1.jpg?v=1720788915&width=1000",
+          "price": 595,
+          "category": "Rakhi",
+          "title": "Brass motif Sher Rakhi"
+        },
+        {
+          "id": 51,
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605138089_1.jpg?v=1720788875&width=1000",
+          "price": 595,
+          "category": "Rakhi",
+          "title": "Brass motif Owl-some Rakhi"
+        },
+        {
+          "id": 52,
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605138072_1.jpg?v=1720788856&width=1000",
+          "price": 595,
+          "category": "Rakhi",
+          "title": "Brass motif Hamsa Rakhi"
+        },
+        {
+          "id": 53,
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605138065_1.jpg?v=1720788840&width=1000",
+          "price": 495,
+          "category": "Rakhi",
+          "title": "Brass motif Evil-Eye Red Rakhi"
+        },
+        {
+          "id": 54,
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605138058_1.jpg?v=1720788825&width=1000",
+          "price": 495,
+          "category": "Rakhi",
+          "title": "Brass motif Evil-Eye Blue Rakhi"
+        },
+        {
+          "id": 55,
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605138041_1.jpg?v=1720788797&width=1000",
+          "price": 495,
+          "category": "Rakhi",
+          "title": "Brass motif Tusker Rakhi"
+        },
+        {
+          "id": 56,
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605138027_1.jpg?v=1720788756&width=1000",
+          "price": 195,
+          "category": "Rakhi",
+          "title": "Beads & thread Evil-Eye Rakhi"
+        },
+        {
+          "id": 57,
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605136689_1.jpg?v=1720503764&width=3541",
+          "price": 1295,
+          "category": "Gift Sets",
+          "title": "Teal by Chumbak Wonderland Fragrance Gift Set of 4"
+        },
+        {
+          "id": 58,
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605136672_1.jpg?v=1720503650&width=3541",
+          "price": 1295,
+          "category": "Gift Sets",
+          "title": "Teal by Chumbak Wanderlust Fragrance Gift Set of 4"
+        },
+        {
+          "id": 59,
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605138263_1.jpg?v=1719915692&width=1000",
+          "price": 1495,
+          "category": "Gift Boxes",
+          "title": "Brew & Bliss Gift Box Set of 4 (For your Sister)"
+        },
+        {
+          "id": 60,
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605138256_1.jpg?v=1719915664&width=1000",
+          "price": 1095,
+          "category": "Gift Hampers",
+          "title": "Brew.Host.Hydrate Gift Hamper Set of 4 (For your Sister)"
+        },
+        {
+          "id": 61,
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605138249_1.jpg?v=1719915647&width=1000",
+          "price": 795,
+          "category": "Gift Boxes",
+          "title": "Essentials Rakhi Gift Box Set of 3 (For your Brother)"
+        },
+        {
+          "id": 62,
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605138133_1.jpg?v=1719915313&width=1000",
+          "price": 1595,
+          "category": "Gift Hampers",
+          "title": "Fashion Girl Treats Gift Hamper Set of 3 (For your Sister or Bhabhi)"
+        },
+        {
+          "id": 63,
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605138126_1.jpg?v=1719915285&width=1000",
+          "price": 1295,
+          "category": "Gift Hampers",
+          "title": "Scent & Brew Gift Hamper Set of 3 (For your Sister)"
+        },
+        {
+          "id": 64,
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605135736_1_9a9ec2ce-2fba-41d3-b7db-ff383dadcec5.jpg?v=1718868071&width=1000",
+          "price": 695,
+          "category": "Mugs",
+          "title": "Swan Mug - S"
+        },
+        {
+          "id": 65,
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605135828_1_546e4c8e-a735-4050-bccd-11b940715062.jpg?v=1718958086&width=1000",
+          "price": 695,
+          "category": "Mugs",
+          "title": "Viceroy Butterfly Mug - V"
+        },
+        {
+          "id": 66,
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605135811_1_40d1597a-2353-454f-9917-12ddfe69950d.jpg?v=1718958118&width=1000",
+          "price": 695,
+          "category": "Mugs",
+          "title": "Hornbill Mug - H"
+        },
+        {
+          "id": 67,
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605135804_1_0a9ae303-a864-4094-8a4d-37d71b1c04f5.jpg?v=1718958150&width=1000",
+          "price": 695,
+          "category": "Mugs",
+          "title": "Penguin Mug - P"
+        },
+        {
+          "id": 68,
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605135798_1_4a1821ec-8968-45a2-81e7-ef82787497a7.jpg?v=1718958183&width=1000",
+          "price": 695,
+          "category": "Mugs",
+          "title": "Dolphin Mug - D"
+        },
+        {
+          "id": 69,
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605135774_1_cee718b8-777a-47b9-8c76-f0cc734b44bf.jpg?v=1718958218&width=1000",
+          "price": 695,
+          "category": "Mug",
+          "title": "Koala Mug - K"
+        },
+        {
+          "id": 70,
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605135781_1_82a11760-9088-4f8f-8f85-ba181de8996b.jpg?v=1718958251&width=1000",
+          "price": 695,
+          "category": "Mug",
+          "title": "Nightingale Mug - N"
+        },
+        {
+          "id": 71,
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605135767_1_22093d01-77d8-42b5-9e60-513f2b0cace0.jpg?v=1718958283&width=1000",
+          "price": 695,
+          "category": "Mug",
+          "title": "Macaw Mug - M"
+        },
+        {
+          "id": 72,
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605135750_1_5714ed80-c603-4bf4-bcde-b5f48e1763fa.jpg?v=1718958317&width=1000",
+          "price": 695,
+          "category": "Mug",
+          "title": "Rabbit Mug - R"
+        },
+        {
+          "id": 73,
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605135743_1_91237ca4-31f8-4682-b800-6b36cb8bae38.jpg?v=1718958353&width=1000",
+          "price": 695,
+          "category": "Mug",
+          "title": "Alpaca Mug - A"
+        },
+        {
+          "id": 74,
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605136801_2.jpg?v=1714125041&width=2083",
+          "price": 1295,
+          "category": "Gift Box",
+          "title": "Awesome Mum |  Gift Box - Set of 5"
+        },
+        {
+          "id": 75,
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605131448_1_aa77bf8a-ddd8-4b31-86bb-1dd8b7804f2d.jpg?v=1708430429&width=1000",
+          "price": 795,
+          "category": "Soya Wax Candles",
+          "title": "Soya Wax Candles"
+        },
+        {
+          "id": 76,
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605131479_2_d37a58a6-e9ce-4bf0-9fc2-55e92c61d4f8.jpg?v=1704976663&width=1000",
+          "price": 595,
+          "category": "Soya Wax Candles",
+          "title": "Lemon Verbena Soy Wax Candle, 265g"
+        },
+        {
+          "id": 77,
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605131257_2.jpg?v=1704976677&width=1000",
+          "price": 795,
+          "category": "Soya Wax Candles",
+          "title": "Shea Cashmere Soy Wax Candle, 200g"
+        },
+        {
+          "id": 78,
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605131233_2.jpg?v=1704976685&width=1000",
+          "price": 795,
+          "category": "Soya Wax Candles",
+          "title": "Grapefruit & Patchouli Soy Wax Candle, 200g"
+        },
+        {
+          "id": 79,
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605131189_2_6570646c-2144-49d7-9516-d9ebed51e0de.jpg?v=1704976712&width=1000",
+          "price": 795,
+          "category": "Soya Wax Candles",
+          "title": "White Lily Soy Wax Candle, 200g"
+        },
+        {
+          "id": 80,
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605131196_2.jpg?v=1704976724&width=1000",
+          "price": 1075,
+          "category": "Soya Wax Candles",
+          "title": "Shea Cashmere Soy Wax Candle, 440g"
+        },
+        {
+          "id": 81,
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605131189_2.jpg?v=1704976729&width=1000",
+          "price": 1075,
+          "category": "Soya Wax Candles",
+          "title": "Oud & Bergamot Soy Wax Candle, 440g"
+        },
+        {
+          "id": 82,
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605131172_2.jpg?v=1704976734&width=1000",
+          "price": 1075,
+          "category": "Soya Wax Candles",
+          "title": "Grapefruit & Patchouli Soy Wax Candle, 440g"
+        },
+        {
+          "id": 83,
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605131158_2.jpg?v=1704976738&width=1000",
+          "price": 1075,
+          "category": "Soya Wax Candles",
+          "title": "Jasmine Tea Soy Wax Candle, 440g"
+        },
+        {
+          "id": 84,
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605131165_2.jpg?v=1704976742&width=1000",
+          "price": 1075,
+          "category": "Soya Wax Candles",
+          "title": "White Lily Soy Wax Candle, 440g"
+        },
+        {
+          "id": 85,
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605134777_1.jpg?v=1701159136&width=1000",
+          "price": 1295,
+          "category": "Perfume",
+          "title": "Woodland Breeze Perfume, 50 ml"
+        },
+        {
+          "id": 86,
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605104275_1.jpg?v=1701069370&width=1000",
+          "price": 1995,
+          "category": "Perfume",
+          "title": "Woodland Breeze Perfume, 100 ml"
+        },
+        {
+          "id": 87,
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605104282_1.jpg?v=1701069333&width=1000",
+          "price": 1395,
+          "category": "Perfume",
+          "title": "Moonlit Stroll Perfume, 100 ml"
+        },
+        {
+          "id": 88,
+          "image": "https://www.chumbak.com/cdn/shop/files/Anniversary.jpg?v=1698316791&width=1000",
+          "category": "Gift Card",
+          "title": "Anniversary Gift Card"
+        },
+        {
+          "id": 89,
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605132025_1.jpg?v=1697438116&width=1000",
+          "price": 1595,
+          "category": "Kulhad",
+          "title": "Marigold Kulhad - Set of 4"
+        },
+        {
+          "id": 90,
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605133084_4.jpg?v=1697694114&width=1000",
+          "price": 1295,
+          "category": "Brassware Gift Box",
+          "title": "Filter Coffee Tumbler Dabara Brassware Gift Box | Set of 2"
+        },
+        {
+          "id": 91,
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605126611_1.jpg?v=1693920180&width=1000",
+          "price": 595,
+          "category": "Gift Set",
+          "title": "Tiara Bloom Mugs - Gift Set of 2"
+        },
+        {
+          "id": 92,
+          "image": "https://www.chumbak.com/cdn/shop/files/8907605126918_1.jpg?v=1692597446&width=1000",
+          "price": 415,
+          "category": "Candle",
+          "title": "Summer Carnival Candle"
+        },
+        {
+          "id": 93,
+          "image": "https://www.chumbak.com/cdn/shop/products/8907605118494_1.jpg?v=1673456563&width=1000",
+          "price": 395,
+          "category": "Gift Box",
+          "title": "Bohemian Paisleys Medium gift box-Mint"
+        },
+        {
+          "id": 94,
+          "image": "https://www.chumbak.com/cdn/shop/products/8907605118579_1.jpg?v=1673456578&width=1000",
+          "price": 295,
+          "category": "Gift Box",
+          "title": "Bohemian Paisleys Small gift box-Pink"
+        },
+        {
+          "id": 95,
+          "image": "https://www.chumbak.com/cdn/shop/products/8907605118050_1.jpg?v=1673380081&width=1000",
+          "price": 235,
+          "category": "Mug",
+          "title": "Best Sister Ever! Mug-Beige"
+        },
+        {
+          "id": 96,
+          "title": "AMI",
+          "color": "Pink",
+          "gender": "female",
+          "category": "jwellary",
+          "description": "Set Of 20 Earring",
+          "price": 399,
+          "rating": 4.3,
+          "image": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14799210/2021/9/25/7c28cf48-6d23-455b-9d07-c5be26d994051632536691110AMISetOf20Gold-PlatedWhiteContemporaryStudsDropEarrings1.jpg"
+        },
+        {
+          "id": 97,
+          "title": "Zaveri Pearls",
+          "color": "golden",
+          "gender": "female",
+          "category": "jwellary",
+          "description": "Studed Choker Jewellery Set",
+          "price": 412,
+          "rating": 4.2,
+          "image": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/12883616/2021/10/27/bae9798d-7980-4b30-8512-6977173e38bc1635332259431ZaveriPearlsGold-PlatedWhiteKundanPearlsStudedMultistrandCho1.jpg"
+        },
+        {
+          "id": 98,
+          "title": "Carlton London",
+          "color": "Pink",
+          "gender": "female",
+          "category": "jwellary",
+          "description": "CZ Studded Geometric Studs",
+          "price": 279,
+          "rating": 4.6,
+          "image": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/9436935/2020/11/4/a73f0e91-28b8-4622-8743-f0d3cc26b2c91604496287743CarltonLondonSilver-TonedRhodium-PlatedCZStuddedGeometricStu1.jpg"
+        },
+        {
+          "id":99,
+          "title": "DressBerry",
+          "color": "Golden",
+          "gender": "female",
+          "category": "jwellary",
+          "description": "Geometri Drop Earringd",
+          "price": 499,
+          "rating": 4.3,
+          "image": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/10117791/2019/8/26/bf212852-7c38-4fb9-9e64-d82441ba472a1566816946418-DressBerry-Gold-Toned-Textured-Geometric-Drop-Earrings-53515-1.jpg"
+        },
+        {
+          "id": 100,
+          "title": "Saraf RS Jewellery",
+          "color": "Black",
+          "gender": "female",
+          "category": "jwellary",
+          "description": "Set Of 20 Earring",
+          "price": 1199,
+          "rating": 4.7,
+          "image": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14924460/2021/7/24/0ed8032d-3434-4fb2-97df-1395e33bb3601627102684650RoseGoldPlatedUniqueDesignADstuddedDesignerChokerNecklacewit1.jpg"
+        },
+        {
+          "id": 101,
+          "title": "AMI",
+          "color": "Pink",
+          "gender": "female",
+          "category": "jwellary",
+          "description": "Gold Plated Jewellery Set",
+          "price": 799,
+          "rating": 4.5,
+          "image": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/16254576/2022/1/13/4ad37156-996a-464e-89bb-0c1926230dcb1642012835937AMIRoseGold-TonedWhiteRoseGoldPlatedStuddedJewellerySet1.jpg"
+        },
+        {
+          "id": 102,
+          "title": "Rubans",
+          "color": "Pink",
+          "gender": "female",
+          "category": "jwellary",
+          "description": "Floral Drop Earring",
+          "price": 1359,
+          "rating": 4.65,
+          "image": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/10481692/2019/8/27/9950b38b-12a4-4609-87b7-aa9c9e5f692f1566893312072-Rubans-Gold-Toned--White-Floral-Drop-Earrings-22715668933113-4.jpg"
+        },
+        {
+          "id": 103,
+          "title": "Saraf RS Jewellery",
+          "color": "Black",
+          "gender": "female",
+          "category": "jwellary",
+          "description": "Rose Gold-Plated & AD Studded",
+          "price": 1199,
+          "rating": 4.3,
+          "image": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15838782/2021/10/18/faeca855-e9fe-408b-8d8d-ca048c194a2e1634561175171SarafRSJewelleryRoseGold-PlatedPinkADStuddedHandcraftedJewel1.jpg"
+        },
+        {
+          "id": 104,
+          "title": "Zaveri Pearls",
+          "color": "Golden",
+          "gender": "female",
+          "category": "jwellary",
+          "description": "Jewellery Set",
+          "price": 379,
+          "rating": 4.1,
+          "image": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/9013413/2021/11/22/5d3728d2-e51e-40f6-bef4-530cdf320c851637560700784-Zaveri-Pearls-Traditional-Stone-Studded--Pearls-Jewellery-Se-1.jpg"
+        },
+        {
+          "id": 105,
+          "title": "Rubans",
+          "color": "Golden",
+          "gender": "female",
+          "category": "jwellary",
+          "description": "Gold-Plated Jewellery Set",
+          "price": 910,
+          "rating": 4.2,
+          "image": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/10662148/2021/10/1/f3b2fcd1-db8b-42c2-9675-7fab6ac89f521633079886585-Rubans-Women-Gold-Plated--White-Pearl-Embellished-Jewellery--1.jpg"
+        },
+        {
+          "id": 106,
+          "title": "Zaveri Pearls",
+          "color": "Blue",
+          "gender": "female",
+          "category": "jwellary",
+          "description": "Gold-Plated Jewellery Set",
+          "price": 599,
+          "rating": 4.1,
+          "image": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15550098/2021/9/30/87e41755-7ddd-459a-84e1-77692924cb171632982091250ZaveriPearlsGold-TonedGreenAlloyGold-PlatedKundan-StuddedJew11.jpg"
+        },
+        {
+          "id": 107,
+          "title": "Carlton London",
+          "color": "Black",
+          "gender": "female",
+          "category": "jwellary",
+          "description": "CZ Studded Floral Studs",
+          "price": 799,
+          "rating": 4.7,
+          "image": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/9437077/2019/6/20/99ab6dd9-2747-4fc5-9b5f-bd8b1a6677bc1561026582709-Carlton-London-Silver-Toned-Rhodium-Plated-CZ-Studded-Floral-1.jpg"
+        },
+        {
+          "id": 108,
+          "title": "Arrabi",
+          "color": "Silver",
+          "gender": "female",
+          "category": "jwellary",
+          "description": "Oxidised Ghungaroo Jewellery",
+          "price": 698,
+          "rating": 3.9,
+          "image": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/16492034/2021/12/13/d66eba4d-78ec-48f9-8fcd-15c503e6eed31639375401805ArrabiOxidisedMetallic-TonedGhungarooJewellerySet1.jpg"
+        },
+        {
+          "id": 109,
+          "title": "Zaveri Pearls",
+          "color": "Golden",
+          "gender": "female",
+          "category": "jwellary",
+          "description": "Crescent Shaped Chandbalis",
+          "price": 899,
+          "rating": 4,
+          "image": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/9013423/2021/11/22/4de3f6ac-c212-416c-8f57-0ab03d6c7a521637573705422ZaveriPearlsGold-TonedPearlKundanStuddedCrescentShapedChandb1.jpg"
+        },
+        {
+          "id": 110,
+          "title": "YouBella",
+          "color": "Black",
+          "gender": "female",
+          "category": "jwellary",
+          "description": "Set Of 2 Gold-Plated Chain",
+          "price": 389,
+          "rating": 4.2,
+          "image": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/5/15/74ef45d3-2acd-4a8b-a3a2-dc099955d0551621056130389-1.jpg"
+        },
+        {
+          "id": 111,
+          "title": "PANASH",
+          "color": "Silver",
+          "gender": "female",
+          "category": "jwellary",
+          "description": "Silver-Plated Oxidised Jhumkas",
+          "price": 349,
+          "rating": 4.4,
+          "image": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/1/18/a562d5c6-be6c-4871-a064-a4c0c05aa8df1547817077168-1.jpg"
+        },
+        {
+          "id": 112,
+          "title": "Saraf RS Jewellery",
+          "color": "Black",
+          "gender": "female",
+          "category": "jwellary",
+          "description": "Rose Gold-Plated Jewellery Set",
+          "price": 1499,
+          "rating": 4.1,
+          "image": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15477924/2021/9/16/e359eada-a4ff-4aa8-afcc-113c7f9a10b11631785651730SarafRSJewelleryRoseGold-PlatedWhiteAD-StuddedHandcraftedJew1.jpg"
+        },
+        {
+          "id": 113,
+          "title": "Priyaasi",
+          "color": "Silver",
+          "gender": "female",
+          "category": "jwellary",
+          "description": "Set Of 20 Earring",
+          "price": 1249,
+          "rating": 4,
+          "image": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/10590658/2019/12/6/608a2d2d-b074-437a-883a-0a7bd087802a1575637859763-Priyaasi-Rose-Gold-Plated-CZ--American-Diamond-Studded-Handc-1.jpg"
+        },
+        {
+          "id": 114,
+          "title": "Priyaasi",
+          "color": "Black",
+          "gender": "female",
+          "category": "jwellary",
+          "description": "Set Of 20 Earring",
+          "price": 689,
+          "rating": 4.4,
+          "image": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/12361312/2020/12/2/112a2f53-f140-418e-aca8-ae14591449501606897356910-Priyaasi-Oxidised-Silver-Plated-German-Silver-Jewellery-Set--1.jpg"
+        },
+        {
+          "id": 115,
+          "title": "Zaveri Pearls",
+          "color": "Golden",
+          "gender": "female",
+          "category": "jwellary",
+          "description": "Set Of 20 Earring",
+          "price": 659,
+          "rating": 4.2,
+          "image": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/2/9/782c271a-e74f-4214-9d02-a98f9663a3a01612855837792-1.jpg"
         }
     ]
 }

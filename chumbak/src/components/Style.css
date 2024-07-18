@@ -4,12 +4,126 @@
     height: 35px;
     width: 100%;
 }
-
-.Nvbtn
-{
-    border-style: none ;
-    margin-left: 3% ;
-    padding: 3%;
+.Nvbtn {
+    background: none;
+    border: none;
+    font-size: 1.5rem;
+    cursor: pointer;
+    position: relative;
 }
 
-/* Home.jsx */
+.Nvbtn .badge {
+    position: absolute;
+    top: -10px;
+    right: -10px;
+}
+/* Home */
+
+.card-img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.card {
+    border: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+.card:hover {
+    transform: scale(1.02);
+}
+
+.card-img-overlay {
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+}
+
+
+/* Product */
+.product .card {
+    border: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+  }
+  
+  .product .card:hover {
+    transform: scale(1.02);
+  }
+  
+  .product .card-img-top {
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  .product .card-body {
+    text-align: center;
+  }
+  
+  @media (max-width: 576px) {
+    .product .card {
+      margin-bottom: 20px;
+    }
+  }
+  
+
+/* cart and description.jsx */
+
+/* Ensure images are responsive */
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Adjust button styles and spacing */
+.btn {
+    margin: 0.5rem;
+}
+
+.badge {
+    position: absolute;
+    top: -10px;
+    right: -10px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .navbar-nav {
+        text-align: center;
+    }
+
+    .navbar-nav .nav-item {
+        margin-bottom: 0.5rem;
+    }
+
+    .navbar-collapse {
+        padding: 1rem;
+    }
+}
+
+@media (min-width: 768px) {
+    .navbar-nav {
+        flex-direction: row;
+    }
+
+    .navbar-nav .nav-item {
+        margin-bottom: 0;
+    }
+}
+
+@media (max-width: 992px) {
+    .container {
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+}
+
+/* Footer.css */
+.social-icon {
+    height: 60px;
+    width: 60px;
+}
+.footer-section {
+    padding: 20px 0;
+}
