@@ -1,4 +1,4 @@
-// redux/action.js
+
 
 export const addCart = (item) => {
     return {
